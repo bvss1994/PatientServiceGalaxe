@@ -20,6 +20,8 @@
 		<mapstruct.version>1.4.1.Final</mapstruct.version>
 		<springdoc-openapi-ui.version>1.5.2</springdoc-openapi-ui.version>
 		<lombok.version>1.18.18</lombok.version>
+		<sonar.organization>bvss1994</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<!-- 		<springfox-version>2.9.2</springfox-version> -->
 	</properties>
 	<dependencies>
